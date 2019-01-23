@@ -1,4 +1,5 @@
-Fork to send messages to telegram when a voice chat states change.
+Personal fork. Implementing support for voice chat state changes to be sent to telegram.
+
 ================================
 
 TediCross
