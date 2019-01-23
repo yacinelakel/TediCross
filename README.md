@@ -1,3 +1,6 @@
+Fork to send messages to telegram when a voice chat states change.
+================================
+
 TediCross
 =========
 TediCross is a bot which bridges a chat in [Telegram](https://telegram.org) with a channel in [Discord](https://discordapp.com/).
