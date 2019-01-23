@@ -1,6 +1,6 @@
 Personal fork. Implementing support for voice chat state changes to be sent to telegram.
 
-================================
+-------
 
 TediCross
 =========
